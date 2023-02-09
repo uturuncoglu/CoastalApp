@@ -24,8 +24,8 @@
 	branch = feature/adcirc_v55
 [submodule "PAHM"]
 	path = PAHM
-	url = https://github.com/noaa-ocs-modeling/PaHM
-	branch = main
+	url = https://github.com/uturuncoglu/PaHM
+	branch = feature/ncar
 [submodule "BARDATA"]
 	path = BARDATA
 	url = https://github.com/noaa-ocs-modeling/BARDATA
